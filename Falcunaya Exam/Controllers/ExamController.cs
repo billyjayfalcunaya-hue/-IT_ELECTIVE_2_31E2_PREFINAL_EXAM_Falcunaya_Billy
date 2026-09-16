@@ -91,6 +91,12 @@ namespace ExamApp.Controllers
                 Options = new() { "A. Client-side validation can be bypassed", "B. Client-side validation automatically modifies the database", "C. Server-side validation only works with SQLite", "D. Client-side validation cannot display messages" },
                 CorrectAnswer = "A. Client-side validation can be bypassed"
             },
+            new ExamQuestion {
+                Number = 15,
+                Question = "A school requires every student to have a unique Student Number. Which rule best represents this requirement?",
+                Options = new() { "A. Student Number should always be nullable", "B. Student Number should be unique", "C. Student Number should always be the same", "D. Student Number should contain only spaces" },
+                CorrectAnswer = "B. Student Number should be unique"
+            },
 
         };
 
