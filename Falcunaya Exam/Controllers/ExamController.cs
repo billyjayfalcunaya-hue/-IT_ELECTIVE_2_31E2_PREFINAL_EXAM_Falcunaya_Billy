@@ -55,7 +55,12 @@ namespace ExamApp.Controllers
                 Options = new() { "A. Primary key of Student", "B. Foreign key referencing Section", "C. Navigation property", "D. Database connection string" },
                 CorrectAnswer = "B. Foreign key referencing Section"
             },
-
+            new ExamQuestion {
+                Number = 9,
+                Question = "What is the purpose of a navigation property such as public Section Section { get; set; }?",
+                Options = new() { "A. It stores the database password", "B. It represents a relationship to another entity", "C. It creates a new database", "D. It validates the student's name" },
+                CorrectAnswer = "B. It represents a relationship to another entity"
+            },
 
         };
 
