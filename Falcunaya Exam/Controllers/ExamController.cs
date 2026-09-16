@@ -19,6 +19,12 @@ namespace ExamApp.Controllers
                 Options = new() { "A. Code-First", "B. Database-First", "C. Model-First", "D. Controller-First" },
                 CorrectAnswer = "B. Database-First"
             },
+            new ExamQuestion {
+                Number = 3,
+                Question = "What is the primary purpose of Entity Framework Core?",
+                Options = new() { "A. To create HTML pages automatically", "B. To replace the MVC Controller", "C. To map objects in code to relational database data", "D. To replace the C# compiler" },
+                CorrectAnswer = "C. To map objects in code to relational database data"
+            },
         };
 
         public IActionResult Index(string? search)
