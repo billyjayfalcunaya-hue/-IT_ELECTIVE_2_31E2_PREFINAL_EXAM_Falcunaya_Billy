@@ -37,6 +37,13 @@ namespace ExamApp.Controllers
                 Options = new() { "A. Deletes the database", "B. Creates a new MVC project", "C. Generates EF Core models and a DbContext from an existing database", "D. Starts the MVC application" },
                 CorrectAnswer = "C. Generates EF Core models and a DbContext from an existing database"
             },
+            new ExamQuestion {
+                Number = 6,
+                Question = "Where is a database connection string commonly stored in an ASP.NET Core MVC application?",
+                Options = new() { "A. Program.cs only", "B. appsettings.json", "C. Index.cshtml", "D. Student.cs" },
+                CorrectAnswer = "B. appsettings.json"
+            },
+
         };
 
         public IActionResult Index(string? search)
