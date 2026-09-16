@@ -79,6 +79,12 @@ namespace ExamApp.Controllers
                 Options = new() { "A. It loads the related Section navigation property", "B. It creates a Section object manually", "C. It removes the foreign key", "D. It prevents the query from accessing the database" },
                 CorrectAnswer = "A. It loads the related Section navigation property"
             },
+            new ExamQuestion {
+                Number = 13,
+                Question = "Which type of validation occurs in the browser before a request is sent to the server?",
+                Options = new() { "A. Database-level validation", "B. Client-side validation", "C. Server-side validation", "D. EF Core migration validation" },
+                CorrectAnswer = "B. Client-side validation"
+            },
 
         };
 
