@@ -1,0 +1,99 @@
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\bin\Debug\net9.0\appsettings.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\bin\Debug\net9.0\Falcunaya Exam.staticwebassets.runtime.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\bin\Debug\net9.0\Falcunaya Exam.staticwebassets.endpoints.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\bin\Debug\net9.0\Falcunaya Exam.exe
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\bin\Debug\net9.0\Falcunaya Exam.deps.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\bin\Debug\net9.0\Falcunaya Exam.runtimeconfig.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\bin\Debug\net9.0\Falcunaya Exam.dll
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\bin\Debug\net9.0\Falcunaya Exam.pdb
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\Falcunaya Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\Falcunaya Exam.AssemblyInfoInputs.cache
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\Falcunaya Exam.AssemblyInfo.cs
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\Falcunaya Exam.csproj.CoreCompileInputs.cache
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\Falcunaya Exam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\Falcunaya Exam.RazorAssemblyInfo.cache
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\Falcunaya Exam.RazorAssemblyInfo.cs
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\Falcunaya Exam.sourcelink.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\scopedcss\bundle\Falcunaya Exam.styles.css
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\scopedcss\projectbundle\Falcunaya Exam.bundle.scp.css
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\wirxnorqbh-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\633zv8vy6t-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\hmbivsv4bb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\kbqp9wb039-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\5c642mf4wf-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\nrvjtdkeli-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\d6o6wwpslk-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\t43x7xpk3z-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\bn9pgbd034-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\8cqsvco5sn-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\lqmc9ufh55-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\psj74ueyl7-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\3cdnfa6z28-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\l9kd8i8h99-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\c12jztrg6z-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\npcl6ga355-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\tfsw97cwbt-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\pkazap7ufa-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\36qyd246rv-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\u4pl534cx2-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\wrp14r0hqs-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\ujf8se3cns-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\v2qppvahsb-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\8og2nmuxl1-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\0bsmgigo2p-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\0b9szn1yhe-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\3hk8924mmj-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\e8tcpigusy-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\66olhumzot-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\za41on84vr-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\l5sklw0gp8-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\4kwq2xyf6c-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\7azekjzdao-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\gr1zv2z4in-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\kcsvnjonys-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\ycfbgvytab-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\4u25ujnqhl-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\uq4xzpa2kx-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\iirrsbs5cz-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\nqpc9xd8oa-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\blcor0qjor-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\r1r18egxye-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\99r6sts87s-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\lja1au2ehl-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\f3k3snl4tx-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\a5ai5uijzh-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\fvgqfd0jg3-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\w9lb93e3wd-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\8dh06gzsnm-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\uhkww65yxh-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\rgw8t512ol-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\7osk435spz-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\9iehjf1o0d-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\gdpsylgfj5-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\uk2zlkwmwm-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\j1lzlsmx92-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\mmho5q9tn0-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\1v528a20zu-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\fhgbzv40b2-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\2fs8ifrlc0-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\nz2xgq44x9-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\jf3vez47tx-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\9g07ggzobi-{0}-4o5r32t747-4o5r32t747.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\compressed\efhq88hrst-{0}-4o5r32t747-4o5r32t747.gz
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\Falcunaya Exam.dll
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\refint\Falcunaya Exam.dll
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\Falcunaya Exam.pdb
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\Falcunaya Exam.genruntimeconfig.cache
+C:\Users\Tumal\source\repos\-IT_ELECTIVE_2_31E2_PREFINAL_EXAM_Falcunaya_Billy\Falcunaya Exam\obj\Debug\net9.0\ref\Falcunaya Exam.dll
