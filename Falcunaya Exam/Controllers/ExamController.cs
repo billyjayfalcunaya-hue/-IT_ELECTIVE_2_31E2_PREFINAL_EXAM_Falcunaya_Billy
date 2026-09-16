@@ -121,6 +121,12 @@ namespace ExamApp.Controllers
                 Options = new() { "A. Display the student's information anyway", "B. Display a Not Found (404) response/page", "C. Delete Student 999", "D. Create Student 999 automatically" },
                 CorrectAnswer = "B. Display a Not Found (404) response/page"
             },
+            new ExamQuestion {
+                Number = 20,
+                Question = "A student already belongs to Section A for a particular subject. The application attempts to assign the same student to Section A again. What is the primary concern?",
+                Options = new() { "A. Data integrity", "B. HTML formatting", "C. CSS inheritance", "D. Razor syntax" },
+                CorrectAnswer = "A. Data integrity"
+            }
         };
 
         public IActionResult Index(string? search)
