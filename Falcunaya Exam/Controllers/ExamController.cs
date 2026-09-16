@@ -25,6 +25,13 @@ namespace ExamApp.Controllers
                 Options = new() { "A. To create HTML pages automatically", "B. To replace the MVC Controller", "C. To map objects in code to relational database data", "D. To replace the C# compiler" },
                 CorrectAnswer = "C. To map objects in code to relational database data"
             },
+            new ExamQuestion {
+                Number = 4,
+                Question = "Which EF Core component is primarily responsible for communicating with the database?",
+                Options = new() { "A. DbContext", "B. DbSetView", "C. ControllerContext", "D. RazorContext" },
+                CorrectAnswer = "A. DbContext"
+            },
+
         };
 
         public IActionResult Index(string? search)
