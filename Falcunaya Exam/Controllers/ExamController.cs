@@ -103,6 +103,12 @@ namespace ExamApp.Controllers
                 Options = new() { "A. It protects data integrity even if application-level validation is bypassed", "B. It makes Razor Views render faster", "C. It removes the need for a Controller", "D. It automatically creates a ViewModel" },
                 CorrectAnswer = "A. It protects data integrity even if application-level validation is bypassed"
             },
+            new ExamQuestion {
+                Number = 17,
+                Question = "What is the purpose of a try...catch block in a controller?",
+                Options = new() { "A. To create navigation properties", "B. To catch and handle exceptions that may occur during execution", "C. To generate database tables", "D. To perform client-side validation" },
+                CorrectAnswer = "B. To catch and handle exceptions that may occur during execution"
+            },
 
         };
 
