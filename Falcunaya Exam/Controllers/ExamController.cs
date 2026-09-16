@@ -109,6 +109,12 @@ namespace ExamApp.Controllers
                 Options = new() { "A. To create navigation properties", "B. To catch and handle exceptions that may occur during execution", "C. To generate database tables", "D. To perform client-side validation" },
                 CorrectAnswer = "B. To catch and handle exceptions that may occur during execution"
             },
+            new ExamQuestion {
+                Number = 18,
+                Question = "Which middleware is commonly used in ASP.NET Core for centralized exception handling?",
+                Options = new() { "A. UseDatabase()", "B. UseExceptionHandler()", "C. UseValidationHandler()", "D. UseMvcDatabase()" },
+                CorrectAnswer = "B. UseExceptionHandler()"
+            },
 
         };
 
