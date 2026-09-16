@@ -85,6 +85,12 @@ namespace ExamApp.Controllers
                 Options = new() { "A. Database-level validation", "B. Client-side validation", "C. Server-side validation", "D. EF Core migration validation" },
                 CorrectAnswer = "B. Client-side validation"
             },
+            new ExamQuestion {
+                Number = 14,
+                Question = "Why is server-side validation still necessary if client-side validation exists?",
+                Options = new() { "A. Client-side validation can be bypassed", "B. Client-side validation automatically modifies the database", "C. Server-side validation only works with SQLite", "D. Client-side validation cannot display messages" },
+                CorrectAnswer = "A. Client-side validation can be bypassed"
+            },
 
         };
 
