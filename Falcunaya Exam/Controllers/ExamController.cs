@@ -13,7 +13,12 @@ namespace ExamApp.Controllers
                 Options = new() { "A. It makes C# code shorter", "B. It prevents the application from restarting", "C. It allows data to persist after the application stops", "D. It removes the need for MVC" },
                 CorrectAnswer = "C. It allows data to persist after the application stops"
             },
-
+            new ExamQuestion {
+                Number = 2,
+                Question = "Which approach is being used when an existing database is used to generate EF Core entity classes?",
+                Options = new() { "A. Code-First", "B. Database-First", "C. Model-First", "D. Controller-First" },
+                CorrectAnswer = "B. Database-First"
+            },
         };
 
         public IActionResult Index(string? search)
